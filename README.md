@@ -5,5 +5,5 @@ A cada dia da semana é proposto um novo desafio de implementação de código, 
 
 ## Projetos Desenvolvidos
 
-[Dia 1 - Comparação de tipos e valores de variáveis]()
+[Dia 1 - Comparação de tipos e valores de variáveis](https://github.com/emanuelgteo/7-days-of-code-2025/tree/main/dia-1)
 

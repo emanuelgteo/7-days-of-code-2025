@@ -37,5 +37,5 @@ if (COMPARAR O numeroDez e a stringDez) {
 - Imprime um texto que descreve a comparação entre as 2 variáveis sorteadas;
 
 ### Exemplos de Execução:
-<img src="./img/exemplo.png>
+<img src="./img/exemplo.png">
 
